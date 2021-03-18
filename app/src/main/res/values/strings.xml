@@ -13,6 +13,7 @@
   ~ See the License for the specific language governing permissions and
   ~ limitations under the License.
   -->
+
 <resources>
     <string name="app_name">FragmentExample</string>
 
@@ -39,5 +40,7 @@
     <string name="exception_message">must implement OnFragmentInteractionListener</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
 
 </resources>
